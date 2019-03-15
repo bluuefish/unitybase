@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 2938791673
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scene/capsulewall.ab
+      Dependencies:
+        Dependency_0: mat/share.ab
+    Info_1:
+      Name: scene/cubewall.ab
+      Dependencies:
+        Dependency_0: mat/share.ab
+    Info_2:
+      Name: mat/share.ab
+      Dependencies: {}
